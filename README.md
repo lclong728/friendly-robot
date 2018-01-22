@@ -1,7 +1,6 @@
 # friendly-robot
 
-it is my first github code
+how to use github?
 
-hello world
+Can someone teach me plzzz?
 
-hello to github
