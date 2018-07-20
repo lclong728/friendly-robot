@@ -1,6 +1,6 @@
 # friendly-robot
 
-how to use github?
+New to GitHub!
 
-Can someone teach me plzzz?
+First Git File
 
